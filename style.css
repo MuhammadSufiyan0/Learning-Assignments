@@ -29,12 +29,26 @@ p{
 }
 div1{
     
-   color: white;
-   border: 10px solid green;
+  
    margin-left: 110px;
-   border-radius: 10px;
-   background-color: green;
+   
 }
 div2{
     margin-left: 110px;
+}
+div3{
+    margin-left: 200px;
+}
+div4{
+    font-size: 30px;
+    margin-left: 110px;
+    
+}
+a{
+    color: aliceblue;
+    border: 12px solid;
+    border-color:green;
+    background-color:green;
+    border-radius: 20px;
+
 }
