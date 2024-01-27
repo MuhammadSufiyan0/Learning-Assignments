@@ -1,0 +1,20 @@
+td{
+    text-align: center;
+}
+table{
+    width: 800px;
+    margin: auto;
+}
+.main{
+    width: 600px;
+    align-items: center;
+    margin: auto;
+    margin-top: 50px;
+}
+a{
+    display: inline-block;
+    margin: auto;
+    font-size: 50px;
+    text-shadow: 10px;
+    color: coral;
+}
