@@ -93,3 +93,10 @@ span{
     font-size: 18px;
     font-weight: 20px;
 }
+div6{
+    position: sticky;
+}
+parent{
+    display: flex;
+    flex-direction: column-reverse;
+}
