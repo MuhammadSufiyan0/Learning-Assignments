@@ -1,0 +1,39 @@
+.sky{
+    background-color: skyblue;
+}
+.blue{
+    background-color: blue;
+}
+.lightgreen{
+    background-color: lightseagreen;
+}
+.yellow{
+    background-color: rgb(255, 204, 0);
+}
+.green{
+    background-color: green;
+}
+.pink{
+    background-color: pink;
+}
+.red{
+    background-color: red;
+}
+.fullyellow{
+    background-color: yellow;
+}
+table{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+   
+}
+h1{
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+    
+}
