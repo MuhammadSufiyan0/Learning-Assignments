@@ -42,6 +42,7 @@ li{
     flex-wrap: wrap;
 }
 img{
-    justify-content: space-between;
+  
+    padding: 5px;
 }
 
